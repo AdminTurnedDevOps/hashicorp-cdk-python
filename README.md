@@ -1,5 +1,12 @@
 # hashicorp-cdk-python
 
+## Prerequisites
+1. NPM installed
+2. pipenv installed
+3. Terraform CLI installed
+
+## Getting Started
+
 1. Install the Hashicorp CDK with NPM
    `npm install -g cdktf-cli`
 
