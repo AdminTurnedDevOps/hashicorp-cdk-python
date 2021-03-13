@@ -4,6 +4,7 @@
 1. NPM installed
 2. pipenv installed
 3. Terraform CLI installed
+4. Python installed
 
 ## Getting Started
 
